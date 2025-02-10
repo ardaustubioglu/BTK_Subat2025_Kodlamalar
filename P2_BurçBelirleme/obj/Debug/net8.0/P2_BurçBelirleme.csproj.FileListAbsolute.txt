@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P2_BurçBelirleme\bin\Debug\net8.0\P2_BurçBelirleme.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P2_BurçBelirleme\bin\Debug\net8.0\P2_BurçBelirleme.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P2_BurçBelirleme\bin\Debug\net8.0\P2_BurçBelirleme.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P2_BurçBelirleme\bin\Debug\net8.0\P2_BurçBelirleme.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P2_BurçBelirleme\bin\Debug\net8.0\P2_BurçBelirleme.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P2_BurçBelirleme\obj\Debug\net8.0\P2_BurçBelirleme.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P2_BurçBelirleme\obj\Debug\net8.0\P2_BurçBelirleme.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P2_BurçBelirleme\obj\Debug\net8.0\P2_BurçBelirleme.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P2_BurçBelirleme\obj\Debug\net8.0\P2_BurçBelirleme.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P2_BurçBelirleme\obj\Debug\net8.0\P2_BurçBelirleme.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P2_BurçBelirleme\obj\Debug\net8.0\refint\P2_BurçBelirleme.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P2_BurçBelirleme\obj\Debug\net8.0\P2_BurçBelirleme.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P2_BurçBelirleme\obj\Debug\net8.0\P2_BurçBelirleme.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P2_BurçBelirleme\obj\Debug\net8.0\ref\P2_BurçBelirleme.dll

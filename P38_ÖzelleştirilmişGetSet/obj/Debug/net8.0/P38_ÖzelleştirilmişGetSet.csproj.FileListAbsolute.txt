@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P38_ÖzelleştirilmişGetSet\bin\Debug\net8.0\P38_ÖzelleştirilmişGetSet.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P38_ÖzelleştirilmişGetSet\bin\Debug\net8.0\P38_ÖzelleştirilmişGetSet.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P38_ÖzelleştirilmişGetSet\bin\Debug\net8.0\P38_ÖzelleştirilmişGetSet.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P38_ÖzelleştirilmişGetSet\bin\Debug\net8.0\P38_ÖzelleştirilmişGetSet.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P38_ÖzelleştirilmişGetSet\bin\Debug\net8.0\P38_ÖzelleştirilmişGetSet.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P38_ÖzelleştirilmişGetSet\obj\Debug\net8.0\P38_ÖzelleştirilmişGetSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P38_ÖzelleştirilmişGetSet\obj\Debug\net8.0\P38_ÖzelleştirilmişGetSet.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P38_ÖzelleştirilmişGetSet\obj\Debug\net8.0\P38_ÖzelleştirilmişGetSet.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P38_ÖzelleştirilmişGetSet\obj\Debug\net8.0\P38_ÖzelleştirilmişGetSet.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P38_ÖzelleştirilmişGetSet\obj\Debug\net8.0\P38_ÖzelleştirilmişGetSet.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P38_ÖzelleştirilmişGetSet\obj\Debug\net8.0\refint\P38_ÖzelleştirilmişGetSet.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P38_ÖzelleştirilmişGetSet\obj\Debug\net8.0\P38_ÖzelleştirilmişGetSet.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P38_ÖzelleştirilmişGetSet\obj\Debug\net8.0\P38_ÖzelleştirilmişGetSet.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P38_ÖzelleştirilmişGetSet\obj\Debug\net8.0\ref\P38_ÖzelleştirilmişGetSet.dll

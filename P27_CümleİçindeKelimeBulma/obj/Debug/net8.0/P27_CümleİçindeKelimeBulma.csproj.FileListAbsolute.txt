@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P27_CümleİçindeKelimeBulma\bin\Debug\net8.0\P27_CümleİçindeKelimeBulma.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P27_CümleİçindeKelimeBulma\bin\Debug\net8.0\P27_CümleİçindeKelimeBulma.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P27_CümleİçindeKelimeBulma\bin\Debug\net8.0\P27_CümleİçindeKelimeBulma.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P27_CümleİçindeKelimeBulma\bin\Debug\net8.0\P27_CümleİçindeKelimeBulma.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P27_CümleİçindeKelimeBulma\bin\Debug\net8.0\P27_CümleİçindeKelimeBulma.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P27_CümleİçindeKelimeBulma\obj\Debug\net8.0\P27_CümleİçindeKelimeBulma.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P27_CümleİçindeKelimeBulma\obj\Debug\net8.0\P27_CümleİçindeKelimeBulma.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P27_CümleİçindeKelimeBulma\obj\Debug\net8.0\P27_CümleİçindeKelimeBulma.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P27_CümleİçindeKelimeBulma\obj\Debug\net8.0\P27_CümleİçindeKelimeBulma.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P27_CümleİçindeKelimeBulma\obj\Debug\net8.0\P27_CümleİçindeKelimeBulma.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P27_CümleİçindeKelimeBulma\obj\Debug\net8.0\refint\P27_CümleİçindeKelimeBulma.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P27_CümleİçindeKelimeBulma\obj\Debug\net8.0\P27_CümleİçindeKelimeBulma.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P27_CümleİçindeKelimeBulma\obj\Debug\net8.0\P27_CümleİçindeKelimeBulma.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P27_CümleİçindeKelimeBulma\obj\Debug\net8.0\ref\P27_CümleİçindeKelimeBulma.dll

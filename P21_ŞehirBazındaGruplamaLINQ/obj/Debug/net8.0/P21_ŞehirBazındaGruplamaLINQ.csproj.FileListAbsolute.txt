@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P21_ŞehirBazındaGruplamaLINQ\bin\Debug\net8.0\P21_ŞehirBazındaGruplamaLINQ.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P21_ŞehirBazındaGruplamaLINQ\bin\Debug\net8.0\P21_ŞehirBazındaGruplamaLINQ.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P21_ŞehirBazındaGruplamaLINQ\bin\Debug\net8.0\P21_ŞehirBazındaGruplamaLINQ.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P21_ŞehirBazındaGruplamaLINQ\bin\Debug\net8.0\P21_ŞehirBazındaGruplamaLINQ.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P21_ŞehirBazındaGruplamaLINQ\bin\Debug\net8.0\P21_ŞehirBazındaGruplamaLINQ.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P21_ŞehirBazındaGruplamaLINQ\obj\Debug\net8.0\P21_ŞehirBazındaGruplamaLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P21_ŞehirBazındaGruplamaLINQ\obj\Debug\net8.0\P21_ŞehirBazındaGruplamaLINQ.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P21_ŞehirBazındaGruplamaLINQ\obj\Debug\net8.0\P21_ŞehirBazındaGruplamaLINQ.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P21_ŞehirBazındaGruplamaLINQ\obj\Debug\net8.0\P21_ŞehirBazındaGruplamaLINQ.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P21_ŞehirBazındaGruplamaLINQ\obj\Debug\net8.0\P21_ŞehirBazındaGruplamaLINQ.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P21_ŞehirBazındaGruplamaLINQ\obj\Debug\net8.0\refint\P21_ŞehirBazındaGruplamaLINQ.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P21_ŞehirBazındaGruplamaLINQ\obj\Debug\net8.0\P21_ŞehirBazındaGruplamaLINQ.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P21_ŞehirBazındaGruplamaLINQ\obj\Debug\net8.0\P21_ŞehirBazındaGruplamaLINQ.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P21_ŞehirBazındaGruplamaLINQ\obj\Debug\net8.0\ref\P21_ŞehirBazındaGruplamaLINQ.dll

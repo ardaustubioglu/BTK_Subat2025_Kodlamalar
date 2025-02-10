@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P20_KelimeFrekans\bin\Debug\net8.0\P20_KelimeFrekans.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P20_KelimeFrekans\bin\Debug\net8.0\P20_KelimeFrekans.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P20_KelimeFrekans\bin\Debug\net8.0\P20_KelimeFrekans.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P20_KelimeFrekans\bin\Debug\net8.0\P20_KelimeFrekans.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P20_KelimeFrekans\bin\Debug\net8.0\P20_KelimeFrekans.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P20_KelimeFrekans\obj\Debug\net8.0\P20_KelimeFrekans.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P20_KelimeFrekans\obj\Debug\net8.0\P20_KelimeFrekans.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P20_KelimeFrekans\obj\Debug\net8.0\P20_KelimeFrekans.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P20_KelimeFrekans\obj\Debug\net8.0\P20_KelimeFrekans.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P20_KelimeFrekans\obj\Debug\net8.0\P20_KelimeFrekans.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P20_KelimeFrekans\obj\Debug\net8.0\refint\P20_KelimeFrekans.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P20_KelimeFrekans\obj\Debug\net8.0\P20_KelimeFrekans.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P20_KelimeFrekans\obj\Debug\net8.0\P20_KelimeFrekans.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P20_KelimeFrekans\obj\Debug\net8.0\ref\P20_KelimeFrekans.dll

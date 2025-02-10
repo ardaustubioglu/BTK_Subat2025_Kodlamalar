@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P55_ÖdemeSistemiOOP\bin\Debug\net8.0\P55_ÖdemeSistemiOOP.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P55_ÖdemeSistemiOOP\bin\Debug\net8.0\P55_ÖdemeSistemiOOP.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P55_ÖdemeSistemiOOP\bin\Debug\net8.0\P55_ÖdemeSistemiOOP.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P55_ÖdemeSistemiOOP\bin\Debug\net8.0\P55_ÖdemeSistemiOOP.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P55_ÖdemeSistemiOOP\bin\Debug\net8.0\P55_ÖdemeSistemiOOP.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P55_ÖdemeSistemiOOP\obj\Debug\net8.0\P55_ÖdemeSistemiOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P55_ÖdemeSistemiOOP\obj\Debug\net8.0\P55_ÖdemeSistemiOOP.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P55_ÖdemeSistemiOOP\obj\Debug\net8.0\P55_ÖdemeSistemiOOP.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P55_ÖdemeSistemiOOP\obj\Debug\net8.0\P55_ÖdemeSistemiOOP.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P55_ÖdemeSistemiOOP\obj\Debug\net8.0\P55_ÖdemeSistemiOOP.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P55_ÖdemeSistemiOOP\obj\Debug\net8.0\refint\P55_ÖdemeSistemiOOP.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P55_ÖdemeSistemiOOP\obj\Debug\net8.0\P55_ÖdemeSistemiOOP.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P55_ÖdemeSistemiOOP\obj\Debug\net8.0\P55_ÖdemeSistemiOOP.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P55_ÖdemeSistemiOOP\obj\Debug\net8.0\ref\P55_ÖdemeSistemiOOP.dll

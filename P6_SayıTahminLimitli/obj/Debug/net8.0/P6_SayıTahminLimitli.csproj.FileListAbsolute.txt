@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P6_SayıTahminLimitli\bin\Debug\net8.0\P6_SayıTahminLimitli.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P6_SayıTahminLimitli\bin\Debug\net8.0\P6_SayıTahminLimitli.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P6_SayıTahminLimitli\bin\Debug\net8.0\P6_SayıTahminLimitli.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P6_SayıTahminLimitli\bin\Debug\net8.0\P6_SayıTahminLimitli.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P6_SayıTahminLimitli\bin\Debug\net8.0\P6_SayıTahminLimitli.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P6_SayıTahminLimitli\obj\Debug\net8.0\P6_SayıTahminLimitli.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P6_SayıTahminLimitli\obj\Debug\net8.0\P6_SayıTahminLimitli.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P6_SayıTahminLimitli\obj\Debug\net8.0\P6_SayıTahminLimitli.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P6_SayıTahminLimitli\obj\Debug\net8.0\P6_SayıTahminLimitli.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P6_SayıTahminLimitli\obj\Debug\net8.0\P6_SayıTahminLimitli.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P6_SayıTahminLimitli\obj\Debug\net8.0\refint\P6_SayıTahminLimitli.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P6_SayıTahminLimitli\obj\Debug\net8.0\P6_SayıTahminLimitli.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P6_SayıTahminLimitli\obj\Debug\net8.0\P6_SayıTahminLimitli.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P6_SayıTahminLimitli\obj\Debug\net8.0\ref\P6_SayıTahminLimitli.dll

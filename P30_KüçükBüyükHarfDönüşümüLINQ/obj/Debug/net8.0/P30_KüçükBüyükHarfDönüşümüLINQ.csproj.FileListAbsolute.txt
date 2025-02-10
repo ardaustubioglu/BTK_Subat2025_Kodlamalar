@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P30_KüçükBüyükHarfDönüşümüLINQ\bin\Debug\net8.0\P30_KüçükBüyükHarfDönüşümüLINQ.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P30_KüçükBüyükHarfDönüşümüLINQ\bin\Debug\net8.0\P30_KüçükBüyükHarfDönüşümüLINQ.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P30_KüçükBüyükHarfDönüşümüLINQ\bin\Debug\net8.0\P30_KüçükBüyükHarfDönüşümüLINQ.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P30_KüçükBüyükHarfDönüşümüLINQ\bin\Debug\net8.0\P30_KüçükBüyükHarfDönüşümüLINQ.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P30_KüçükBüyükHarfDönüşümüLINQ\bin\Debug\net8.0\P30_KüçükBüyükHarfDönüşümüLINQ.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P30_KüçükBüyükHarfDönüşümüLINQ\obj\Debug\net8.0\P30_KüçükBüyükHarfDönüşümüLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P30_KüçükBüyükHarfDönüşümüLINQ\obj\Debug\net8.0\P30_KüçükBüyükHarfDönüşümüLINQ.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P30_KüçükBüyükHarfDönüşümüLINQ\obj\Debug\net8.0\P30_KüçükBüyükHarfDönüşümüLINQ.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P30_KüçükBüyükHarfDönüşümüLINQ\obj\Debug\net8.0\P30_KüçükBüyükHarfDönüşümüLINQ.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P30_KüçükBüyükHarfDönüşümüLINQ\obj\Debug\net8.0\P30_KüçükBüyükHarfDönüşümüLINQ.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P30_KüçükBüyükHarfDönüşümüLINQ\obj\Debug\net8.0\refint\P30_KüçükBüyükHarfDönüşümüLINQ.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P30_KüçükBüyükHarfDönüşümüLINQ\obj\Debug\net8.0\P30_KüçükBüyükHarfDönüşümüLINQ.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P30_KüçükBüyükHarfDönüşümüLINQ\obj\Debug\net8.0\P30_KüçükBüyükHarfDönüşümüLINQ.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P30_KüçükBüyükHarfDönüşümüLINQ\obj\Debug\net8.0\ref\P30_KüçükBüyükHarfDönüşümüLINQ.dll

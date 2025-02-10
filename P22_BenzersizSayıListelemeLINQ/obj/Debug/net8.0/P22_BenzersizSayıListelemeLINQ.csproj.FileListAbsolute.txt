@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P22_BenzersizSayıListelemeLINQ\bin\Debug\net8.0\P22_BenzersizSayıListelemeLINQ.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P22_BenzersizSayıListelemeLINQ\bin\Debug\net8.0\P22_BenzersizSayıListelemeLINQ.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P22_BenzersizSayıListelemeLINQ\bin\Debug\net8.0\P22_BenzersizSayıListelemeLINQ.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P22_BenzersizSayıListelemeLINQ\bin\Debug\net8.0\P22_BenzersizSayıListelemeLINQ.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P22_BenzersizSayıListelemeLINQ\bin\Debug\net8.0\P22_BenzersizSayıListelemeLINQ.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P22_BenzersizSayıListelemeLINQ\obj\Debug\net8.0\P22_BenzersizSayıListelemeLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P22_BenzersizSayıListelemeLINQ\obj\Debug\net8.0\P22_BenzersizSayıListelemeLINQ.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P22_BenzersizSayıListelemeLINQ\obj\Debug\net8.0\P22_BenzersizSayıListelemeLINQ.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P22_BenzersizSayıListelemeLINQ\obj\Debug\net8.0\P22_BenzersizSayıListelemeLINQ.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P22_BenzersizSayıListelemeLINQ\obj\Debug\net8.0\P22_BenzersizSayıListelemeLINQ.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P22_BenzersizSayıListelemeLINQ\obj\Debug\net8.0\refint\P22_BenzersizSayıListelemeLINQ.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P22_BenzersizSayıListelemeLINQ\obj\Debug\net8.0\P22_BenzersizSayıListelemeLINQ.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P22_BenzersizSayıListelemeLINQ\obj\Debug\net8.0\P22_BenzersizSayıListelemeLINQ.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P22_BenzersizSayıListelemeLINQ\obj\Debug\net8.0\ref\P22_BenzersizSayıListelemeLINQ.dll

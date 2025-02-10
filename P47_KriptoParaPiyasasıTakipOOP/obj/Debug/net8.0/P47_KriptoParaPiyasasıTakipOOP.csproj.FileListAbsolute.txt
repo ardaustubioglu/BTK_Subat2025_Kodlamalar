@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P47_KriptoParaPiyasasıTakipOOP\bin\Debug\net8.0\P47_KriptoParaPiyasasıTakipOOP.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P47_KriptoParaPiyasasıTakipOOP\bin\Debug\net8.0\P47_KriptoParaPiyasasıTakipOOP.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P47_KriptoParaPiyasasıTakipOOP\bin\Debug\net8.0\P47_KriptoParaPiyasasıTakipOOP.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P47_KriptoParaPiyasasıTakipOOP\bin\Debug\net8.0\P47_KriptoParaPiyasasıTakipOOP.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P47_KriptoParaPiyasasıTakipOOP\bin\Debug\net8.0\P47_KriptoParaPiyasasıTakipOOP.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P47_KriptoParaPiyasasıTakipOOP\obj\Debug\net8.0\P47_KriptoParaPiyasasıTakipOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P47_KriptoParaPiyasasıTakipOOP\obj\Debug\net8.0\P47_KriptoParaPiyasasıTakipOOP.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P47_KriptoParaPiyasasıTakipOOP\obj\Debug\net8.0\P47_KriptoParaPiyasasıTakipOOP.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P47_KriptoParaPiyasasıTakipOOP\obj\Debug\net8.0\P47_KriptoParaPiyasasıTakipOOP.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P47_KriptoParaPiyasasıTakipOOP\obj\Debug\net8.0\P47_KriptoParaPiyasasıTakipOOP.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P47_KriptoParaPiyasasıTakipOOP\obj\Debug\net8.0\refint\P47_KriptoParaPiyasasıTakipOOP.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P47_KriptoParaPiyasasıTakipOOP\obj\Debug\net8.0\P47_KriptoParaPiyasasıTakipOOP.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P47_KriptoParaPiyasasıTakipOOP\obj\Debug\net8.0\P47_KriptoParaPiyasasıTakipOOP.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P47_KriptoParaPiyasasıTakipOOP\obj\Debug\net8.0\ref\P47_KriptoParaPiyasasıTakipOOP.dll

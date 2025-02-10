@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P27_CümleİçindeKelimeBulma/1.0.0": {
+        "runtime": {
+          "P27_CümleİçindeKelimeBulma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P27_CümleİçindeKelimeBulma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

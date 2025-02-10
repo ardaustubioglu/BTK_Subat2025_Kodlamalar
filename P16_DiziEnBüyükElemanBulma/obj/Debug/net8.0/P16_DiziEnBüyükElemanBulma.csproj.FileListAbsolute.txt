@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P16_DiziEnBüyükElemanBulma\bin\Debug\net8.0\P16_DiziEnBüyükElemanBulma.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P16_DiziEnBüyükElemanBulma\bin\Debug\net8.0\P16_DiziEnBüyükElemanBulma.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P16_DiziEnBüyükElemanBulma\bin\Debug\net8.0\P16_DiziEnBüyükElemanBulma.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P16_DiziEnBüyükElemanBulma\bin\Debug\net8.0\P16_DiziEnBüyükElemanBulma.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P16_DiziEnBüyükElemanBulma\bin\Debug\net8.0\P16_DiziEnBüyükElemanBulma.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P16_DiziEnBüyükElemanBulma\obj\Debug\net8.0\P16_DiziEnBüyükElemanBulma.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P16_DiziEnBüyükElemanBulma\obj\Debug\net8.0\P16_DiziEnBüyükElemanBulma.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P16_DiziEnBüyükElemanBulma\obj\Debug\net8.0\P16_DiziEnBüyükElemanBulma.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P16_DiziEnBüyükElemanBulma\obj\Debug\net8.0\P16_DiziEnBüyükElemanBulma.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P16_DiziEnBüyükElemanBulma\obj\Debug\net8.0\P16_DiziEnBüyükElemanBulma.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P16_DiziEnBüyükElemanBulma\obj\Debug\net8.0\refint\P16_DiziEnBüyükElemanBulma.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P16_DiziEnBüyükElemanBulma\obj\Debug\net8.0\P16_DiziEnBüyükElemanBulma.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P16_DiziEnBüyükElemanBulma\obj\Debug\net8.0\P16_DiziEnBüyükElemanBulma.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P16_DiziEnBüyükElemanBulma\obj\Debug\net8.0\ref\P16_DiziEnBüyükElemanBulma.dll

@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P48_OverrideAraçSistemi\bin\Debug\net8.0\P48_OverrideAraçSistemi.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P48_OverrideAraçSistemi\bin\Debug\net8.0\P48_OverrideAraçSistemi.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P48_OverrideAraçSistemi\bin\Debug\net8.0\P48_OverrideAraçSistemi.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P48_OverrideAraçSistemi\bin\Debug\net8.0\P48_OverrideAraçSistemi.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P48_OverrideAraçSistemi\bin\Debug\net8.0\P48_OverrideAraçSistemi.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P48_OverrideAraçSistemi\obj\Debug\net8.0\P48_OverrideAraçSistemi.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P48_OverrideAraçSistemi\obj\Debug\net8.0\P48_OverrideAraçSistemi.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P48_OverrideAraçSistemi\obj\Debug\net8.0\P48_OverrideAraçSistemi.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P48_OverrideAraçSistemi\obj\Debug\net8.0\P48_OverrideAraçSistemi.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P48_OverrideAraçSistemi\obj\Debug\net8.0\P48_OverrideAraçSistemi.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P48_OverrideAraçSistemi\obj\Debug\net8.0\refint\P48_OverrideAraçSistemi.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P48_OverrideAraçSistemi\obj\Debug\net8.0\P48_OverrideAraçSistemi.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P48_OverrideAraçSistemi\obj\Debug\net8.0\P48_OverrideAraçSistemi.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P48_OverrideAraçSistemi\obj\Debug\net8.0\ref\P48_OverrideAraçSistemi.dll

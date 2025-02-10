@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P52_SealedMetotKullanımıOOP/1.0.0": {
+        "runtime": {
+          "P52_SealedMetotKullanımıOOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P52_SealedMetotKullanımıOOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

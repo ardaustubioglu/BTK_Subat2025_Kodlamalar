@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P20_KelimeFrekans/1.0.0": {
+        "runtime": {
+          "P20_KelimeFrekans.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P20_KelimeFrekans/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P15_EbobÖklidAlg\bin\Debug\net8.0\P15_EbobÖklidAlg.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P15_EbobÖklidAlg\bin\Debug\net8.0\P15_EbobÖklidAlg.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P15_EbobÖklidAlg\bin\Debug\net8.0\P15_EbobÖklidAlg.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P15_EbobÖklidAlg\bin\Debug\net8.0\P15_EbobÖklidAlg.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P15_EbobÖklidAlg\bin\Debug\net8.0\P15_EbobÖklidAlg.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P15_EbobÖklidAlg\obj\Debug\net8.0\P15_EbobÖklidAlg.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P15_EbobÖklidAlg\obj\Debug\net8.0\P15_EbobÖklidAlg.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P15_EbobÖklidAlg\obj\Debug\net8.0\P15_EbobÖklidAlg.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P15_EbobÖklidAlg\obj\Debug\net8.0\P15_EbobÖklidAlg.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P15_EbobÖklidAlg\obj\Debug\net8.0\P15_EbobÖklidAlg.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P15_EbobÖklidAlg\obj\Debug\net8.0\refint\P15_EbobÖklidAlg.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P15_EbobÖklidAlg\obj\Debug\net8.0\P15_EbobÖklidAlg.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P15_EbobÖklidAlg\obj\Debug\net8.0\P15_EbobÖklidAlg.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P15_EbobÖklidAlg\obj\Debug\net8.0\ref\P15_EbobÖklidAlg.dll

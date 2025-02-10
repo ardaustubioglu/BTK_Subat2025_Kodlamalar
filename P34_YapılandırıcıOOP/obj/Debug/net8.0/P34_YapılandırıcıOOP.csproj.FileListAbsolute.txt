@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P34_YapılandırıcıOOP\bin\Debug\net8.0\P34_YapılandırıcıOOP.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P34_YapılandırıcıOOP\bin\Debug\net8.0\P34_YapılandırıcıOOP.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P34_YapılandırıcıOOP\bin\Debug\net8.0\P34_YapılandırıcıOOP.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P34_YapılandırıcıOOP\bin\Debug\net8.0\P34_YapılandırıcıOOP.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P34_YapılandırıcıOOP\bin\Debug\net8.0\P34_YapılandırıcıOOP.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P34_YapılandırıcıOOP\obj\Debug\net8.0\P34_YapılandırıcıOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P34_YapılandırıcıOOP\obj\Debug\net8.0\P34_YapılandırıcıOOP.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P34_YapılandırıcıOOP\obj\Debug\net8.0\P34_YapılandırıcıOOP.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P34_YapılandırıcıOOP\obj\Debug\net8.0\P34_YapılandırıcıOOP.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P34_YapılandırıcıOOP\obj\Debug\net8.0\P34_YapılandırıcıOOP.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P34_YapılandırıcıOOP\obj\Debug\net8.0\refint\P34_YapılandırıcıOOP.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P34_YapılandırıcıOOP\obj\Debug\net8.0\P34_YapılandırıcıOOP.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P34_YapılandırıcıOOP\obj\Debug\net8.0\P34_YapılandırıcıOOP.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P34_YapılandırıcıOOP\obj\Debug\net8.0\ref\P34_YapılandırıcıOOP.dll

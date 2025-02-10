@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P53_ElektrikliCİhazYönetimiOOP\bin\Debug\net8.0\P53_ElektrikliCİhazYönetimiOOP.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P53_ElektrikliCİhazYönetimiOOP\bin\Debug\net8.0\P53_ElektrikliCİhazYönetimiOOP.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P53_ElektrikliCİhazYönetimiOOP\bin\Debug\net8.0\P53_ElektrikliCİhazYönetimiOOP.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P53_ElektrikliCİhazYönetimiOOP\bin\Debug\net8.0\P53_ElektrikliCİhazYönetimiOOP.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P53_ElektrikliCİhazYönetimiOOP\bin\Debug\net8.0\P53_ElektrikliCİhazYönetimiOOP.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P53_ElektrikliCİhazYönetimiOOP\obj\Debug\net8.0\P53_ElektrikliCİhazYönetimiOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P53_ElektrikliCİhazYönetimiOOP\obj\Debug\net8.0\P53_ElektrikliCİhazYönetimiOOP.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P53_ElektrikliCİhazYönetimiOOP\obj\Debug\net8.0\P53_ElektrikliCİhazYönetimiOOP.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P53_ElektrikliCİhazYönetimiOOP\obj\Debug\net8.0\P53_ElektrikliCİhazYönetimiOOP.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P53_ElektrikliCİhazYönetimiOOP\obj\Debug\net8.0\P53_ElektrikliCİhazYönetimiOOP.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P53_ElektrikliCİhazYönetimiOOP\obj\Debug\net8.0\refint\P53_ElektrikliCİhazYönetimiOOP.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P53_ElektrikliCİhazYönetimiOOP\obj\Debug\net8.0\P53_ElektrikliCİhazYönetimiOOP.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P53_ElektrikliCİhazYönetimiOOP\obj\Debug\net8.0\P53_ElektrikliCİhazYönetimiOOP.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P53_ElektrikliCİhazYönetimiOOP\obj\Debug\net8.0\ref\P53_ElektrikliCİhazYönetimiOOP.dll

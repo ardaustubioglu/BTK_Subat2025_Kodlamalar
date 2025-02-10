@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P48_OverrideAraçSistemi/1.0.0": {
+        "runtime": {
+          "P48_OverrideAraçSistemi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P48_OverrideAraçSistemi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

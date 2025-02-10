@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P1_ÜçgenDoğrulama\bin\Debug\net8.0\P1_ÜçgenDoğrulama.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P1_ÜçgenDoğrulama\bin\Debug\net8.0\P1_ÜçgenDoğrulama.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P1_ÜçgenDoğrulama\bin\Debug\net8.0\P1_ÜçgenDoğrulama.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P1_ÜçgenDoğrulama\bin\Debug\net8.0\P1_ÜçgenDoğrulama.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P1_ÜçgenDoğrulama\bin\Debug\net8.0\P1_ÜçgenDoğrulama.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P1_ÜçgenDoğrulama\obj\Debug\net8.0\P1_ÜçgenDoğrulama.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P1_ÜçgenDoğrulama\obj\Debug\net8.0\P1_ÜçgenDoğrulama.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P1_ÜçgenDoğrulama\obj\Debug\net8.0\P1_ÜçgenDoğrulama.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P1_ÜçgenDoğrulama\obj\Debug\net8.0\P1_ÜçgenDoğrulama.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P1_ÜçgenDoğrulama\obj\Debug\net8.0\P1_ÜçgenDoğrulama.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P1_ÜçgenDoğrulama\obj\Debug\net8.0\refint\P1_ÜçgenDoğrulama.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P1_ÜçgenDoğrulama\obj\Debug\net8.0\P1_ÜçgenDoğrulama.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P1_ÜçgenDoğrulama\obj\Debug\net8.0\P1_ÜçgenDoğrulama.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P1_ÜçgenDoğrulama\obj\Debug\net8.0\ref\P1_ÜçgenDoğrulama.dll

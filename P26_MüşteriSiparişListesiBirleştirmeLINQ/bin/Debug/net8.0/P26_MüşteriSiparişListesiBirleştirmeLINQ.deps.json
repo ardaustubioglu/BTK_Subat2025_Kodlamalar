@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P26_MüşteriSiparişListesiBirleştirmeLINQ/1.0.0": {
+        "runtime": {
+          "P26_MüşteriSiparişListesiBirleştirmeLINQ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P26_MüşteriSiparişListesiBirleştirmeLINQ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P18_DictTabanlıTelefonRehberi\bin\Debug\net8.0\P18_DictTabanlıTelefonRehberi.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P18_DictTabanlıTelefonRehberi\bin\Debug\net8.0\P18_DictTabanlıTelefonRehberi.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P18_DictTabanlıTelefonRehberi\bin\Debug\net8.0\P18_DictTabanlıTelefonRehberi.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P18_DictTabanlıTelefonRehberi\bin\Debug\net8.0\P18_DictTabanlıTelefonRehberi.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P18_DictTabanlıTelefonRehberi\bin\Debug\net8.0\P18_DictTabanlıTelefonRehberi.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P18_DictTabanlıTelefonRehberi\obj\Debug\net8.0\P18_DictTabanlıTelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P18_DictTabanlıTelefonRehberi\obj\Debug\net8.0\P18_DictTabanlıTelefonRehberi.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P18_DictTabanlıTelefonRehberi\obj\Debug\net8.0\P18_DictTabanlıTelefonRehberi.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P18_DictTabanlıTelefonRehberi\obj\Debug\net8.0\P18_DictTabanlıTelefonRehberi.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P18_DictTabanlıTelefonRehberi\obj\Debug\net8.0\P18_DictTabanlıTelefonRehberi.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P18_DictTabanlıTelefonRehberi\obj\Debug\net8.0\refint\P18_DictTabanlıTelefonRehberi.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P18_DictTabanlıTelefonRehberi\obj\Debug\net8.0\P18_DictTabanlıTelefonRehberi.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P18_DictTabanlıTelefonRehberi\obj\Debug\net8.0\P18_DictTabanlıTelefonRehberi.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P18_DictTabanlıTelefonRehberi\obj\Debug\net8.0\ref\P18_DictTabanlıTelefonRehberi.dll

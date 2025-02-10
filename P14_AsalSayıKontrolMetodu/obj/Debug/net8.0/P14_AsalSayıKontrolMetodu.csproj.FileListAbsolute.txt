@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P14_AsalSayıKontrolMetodu\bin\Debug\net8.0\P14_AsalSayıKontrolMetodu.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P14_AsalSayıKontrolMetodu\bin\Debug\net8.0\P14_AsalSayıKontrolMetodu.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P14_AsalSayıKontrolMetodu\bin\Debug\net8.0\P14_AsalSayıKontrolMetodu.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P14_AsalSayıKontrolMetodu\bin\Debug\net8.0\P14_AsalSayıKontrolMetodu.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P14_AsalSayıKontrolMetodu\bin\Debug\net8.0\P14_AsalSayıKontrolMetodu.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P14_AsalSayıKontrolMetodu\obj\Debug\net8.0\P14_AsalSayıKontrolMetodu.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P14_AsalSayıKontrolMetodu\obj\Debug\net8.0\P14_AsalSayıKontrolMetodu.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P14_AsalSayıKontrolMetodu\obj\Debug\net8.0\P14_AsalSayıKontrolMetodu.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P14_AsalSayıKontrolMetodu\obj\Debug\net8.0\P14_AsalSayıKontrolMetodu.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P14_AsalSayıKontrolMetodu\obj\Debug\net8.0\P14_AsalSayıKontrolMetodu.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P14_AsalSayıKontrolMetodu\obj\Debug\net8.0\refint\P14_AsalSayıKontrolMetodu.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P14_AsalSayıKontrolMetodu\obj\Debug\net8.0\P14_AsalSayıKontrolMetodu.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P14_AsalSayıKontrolMetodu\obj\Debug\net8.0\P14_AsalSayıKontrolMetodu.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P14_AsalSayıKontrolMetodu\obj\Debug\net8.0\ref\P14_AsalSayıKontrolMetodu.dll

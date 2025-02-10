@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P40_AkıllıEvOOP\bin\Debug\net8.0\P40_AkıllıEvOOP.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P40_AkıllıEvOOP\bin\Debug\net8.0\P40_AkıllıEvOOP.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P40_AkıllıEvOOP\bin\Debug\net8.0\P40_AkıllıEvOOP.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P40_AkıllıEvOOP\bin\Debug\net8.0\P40_AkıllıEvOOP.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P40_AkıllıEvOOP\bin\Debug\net8.0\P40_AkıllıEvOOP.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P40_AkıllıEvOOP\obj\Debug\net8.0\P40_AkıllıEvOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P40_AkıllıEvOOP\obj\Debug\net8.0\P40_AkıllıEvOOP.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P40_AkıllıEvOOP\obj\Debug\net8.0\P40_AkıllıEvOOP.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P40_AkıllıEvOOP\obj\Debug\net8.0\P40_AkıllıEvOOP.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P40_AkıllıEvOOP\obj\Debug\net8.0\P40_AkıllıEvOOP.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P40_AkıllıEvOOP\obj\Debug\net8.0\refint\P40_AkıllıEvOOP.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P40_AkıllıEvOOP\obj\Debug\net8.0\P40_AkıllıEvOOP.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P40_AkıllıEvOOP\obj\Debug\net8.0\P40_AkıllıEvOOP.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P40_AkıllıEvOOP\obj\Debug\net8.0\ref\P40_AkıllıEvOOP.dll

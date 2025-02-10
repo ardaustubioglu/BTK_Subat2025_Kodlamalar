@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - TRABZON \u00DCN\u0130VERS\u0130TES\u0130 Bilgi \u0130\u015Flem Daire B\\_C# Nesne Y\u00F6nelimli Programlama BTK\\_Haftal\u0131k \u0130\u00E7erik\\Projeler\\P51_Maa\u015FHesaplamaSistemiOOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB8D2464-B6E5-49D5-96A9-09E57748D0E4}|P51_Maa\u015FHesaplamaSistemiOOP.csproj|d:\\onedrive - trabzon \u00FCn\u0130vers\u0130tes\u0130 bilgi \u0130\u015Flem daire b\\_c# nesne y\u00F6nelimli programlama btk\\_haftal\u0131k \u0130\u00E7erik\\projeler\\p51_maa\u015Fhesaplamasistemioop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB8D2464-B6E5-49D5-96A9-09E57748D0E4}|P51_Maa\u015FHesaplamaSistemiOOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive - TRABZON \u00DCN\u0130VERS\u0130TES\u0130 Bilgi \u0130\u015Flem Daire B\\_C# Nesne Y\u00F6nelimli Programlama BTK\\_Haftal\u0131k \u0130\u00E7erik\\Projeler\\P51_Maa\u015FHesaplamaSistemiOOP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OneDrive - TRABZON \u00DCN\u0130VERS\u0130TES\u0130 Bilgi \u0130\u015Flem Daire B\\_C# Nesne Y\u00F6nelimli Programlama BTK\\_Haftal\u0131k \u0130\u00E7erik\\Projeler\\P51_Maa\u015FHesaplamaSistemiOOP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T13:12:06.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

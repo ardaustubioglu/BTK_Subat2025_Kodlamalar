@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P41_Kargo Sistemi/1.0.0": {
+        "runtime": {
+          "P41_Kargo Sistemi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P41_Kargo Sistemi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P5_SayıTahminTemel/1.0.0": {
+        "runtime": {
+          "P5_SayıTahminTemel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P5_SayıTahminTemel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

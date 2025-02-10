@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P9_BüyükSayıKareGösterim\bin\Debug\net8.0\P9_BüyükSayıKareGösterim.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P9_BüyükSayıKareGösterim\bin\Debug\net8.0\P9_BüyükSayıKareGösterim.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P9_BüyükSayıKareGösterim\bin\Debug\net8.0\P9_BüyükSayıKareGösterim.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P9_BüyükSayıKareGösterim\bin\Debug\net8.0\P9_BüyükSayıKareGösterim.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P9_BüyükSayıKareGösterim\bin\Debug\net8.0\P9_BüyükSayıKareGösterim.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P9_BüyükSayıKareGösterim\obj\Debug\net8.0\P9_BüyükSayıKareGösterim.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P9_BüyükSayıKareGösterim\obj\Debug\net8.0\P9_BüyükSayıKareGösterim.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P9_BüyükSayıKareGösterim\obj\Debug\net8.0\P9_BüyükSayıKareGösterim.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P9_BüyükSayıKareGösterim\obj\Debug\net8.0\P9_BüyükSayıKareGösterim.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P9_BüyükSayıKareGösterim\obj\Debug\net8.0\P9_BüyükSayıKareGösterim.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P9_BüyükSayıKareGösterim\obj\Debug\net8.0\refint\P9_BüyükSayıKareGösterim.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P9_BüyükSayıKareGösterim\obj\Debug\net8.0\P9_BüyükSayıKareGösterim.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P9_BüyükSayıKareGösterim\obj\Debug\net8.0\P9_BüyükSayıKareGösterim.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P9_BüyükSayıKareGösterim\obj\Debug\net8.0\ref\P9_BüyükSayıKareGösterim.dll

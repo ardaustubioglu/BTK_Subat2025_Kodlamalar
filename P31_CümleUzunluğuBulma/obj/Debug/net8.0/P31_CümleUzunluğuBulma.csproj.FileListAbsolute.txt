@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P31_CümleUzunluğuBulma\bin\Debug\net8.0\P31_CümleUzunluğuBulma.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P31_CümleUzunluğuBulma\bin\Debug\net8.0\P31_CümleUzunluğuBulma.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P31_CümleUzunluğuBulma\bin\Debug\net8.0\P31_CümleUzunluğuBulma.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P31_CümleUzunluğuBulma\bin\Debug\net8.0\P31_CümleUzunluğuBulma.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P31_CümleUzunluğuBulma\bin\Debug\net8.0\P31_CümleUzunluğuBulma.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P31_CümleUzunluğuBulma\obj\Debug\net8.0\P31_CümleUzunluğuBulma.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P31_CümleUzunluğuBulma\obj\Debug\net8.0\P31_CümleUzunluğuBulma.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P31_CümleUzunluğuBulma\obj\Debug\net8.0\P31_CümleUzunluğuBulma.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P31_CümleUzunluğuBulma\obj\Debug\net8.0\P31_CümleUzunluğuBulma.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P31_CümleUzunluğuBulma\obj\Debug\net8.0\P31_CümleUzunluğuBulma.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P31_CümleUzunluğuBulma\obj\Debug\net8.0\refint\P31_CümleUzunluğuBulma.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P31_CümleUzunluğuBulma\obj\Debug\net8.0\P31_CümleUzunluğuBulma.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P31_CümleUzunluğuBulma\obj\Debug\net8.0\P31_CümleUzunluğuBulma.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P31_CümleUzunluğuBulma\obj\Debug\net8.0\ref\P31_CümleUzunluğuBulma.dll

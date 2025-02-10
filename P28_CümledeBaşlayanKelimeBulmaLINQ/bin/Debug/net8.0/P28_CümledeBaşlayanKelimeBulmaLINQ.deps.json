@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P28_CümledeBaşlayanKelimeBulmaLINQ/1.0.0": {
+        "runtime": {
+          "P28_CümledeBaşlayanKelimeBulmaLINQ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P28_CümledeBaşlayanKelimeBulmaLINQ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

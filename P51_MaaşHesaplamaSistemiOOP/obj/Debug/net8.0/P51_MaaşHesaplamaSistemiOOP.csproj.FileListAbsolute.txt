@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P51_MaaşHesaplamaSistemiOOP\bin\Debug\net8.0\P51_MaaşHesaplamaSistemiOOP.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P51_MaaşHesaplamaSistemiOOP\bin\Debug\net8.0\P51_MaaşHesaplamaSistemiOOP.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P51_MaaşHesaplamaSistemiOOP\bin\Debug\net8.0\P51_MaaşHesaplamaSistemiOOP.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P51_MaaşHesaplamaSistemiOOP\bin\Debug\net8.0\P51_MaaşHesaplamaSistemiOOP.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P51_MaaşHesaplamaSistemiOOP\bin\Debug\net8.0\P51_MaaşHesaplamaSistemiOOP.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P51_MaaşHesaplamaSistemiOOP\obj\Debug\net8.0\P51_MaaşHesaplamaSistemiOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P51_MaaşHesaplamaSistemiOOP\obj\Debug\net8.0\P51_MaaşHesaplamaSistemiOOP.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P51_MaaşHesaplamaSistemiOOP\obj\Debug\net8.0\P51_MaaşHesaplamaSistemiOOP.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P51_MaaşHesaplamaSistemiOOP\obj\Debug\net8.0\P51_MaaşHesaplamaSistemiOOP.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P51_MaaşHesaplamaSistemiOOP\obj\Debug\net8.0\P51_MaaşHesaplamaSistemiOOP.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P51_MaaşHesaplamaSistemiOOP\obj\Debug\net8.0\refint\P51_MaaşHesaplamaSistemiOOP.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P51_MaaşHesaplamaSistemiOOP\obj\Debug\net8.0\P51_MaaşHesaplamaSistemiOOP.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P51_MaaşHesaplamaSistemiOOP\obj\Debug\net8.0\P51_MaaşHesaplamaSistemiOOP.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P51_MaaşHesaplamaSistemiOOP\obj\Debug\net8.0\ref\P51_MaaşHesaplamaSistemiOOP.dll

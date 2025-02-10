@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P7_SayıTahminKarşılıklı\bin\Debug\net8.0\P7_SayıTahminKarşılıklı.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P7_SayıTahminKarşılıklı\bin\Debug\net8.0\P7_SayıTahminKarşılıklı.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P7_SayıTahminKarşılıklı\bin\Debug\net8.0\P7_SayıTahminKarşılıklı.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P7_SayıTahminKarşılıklı\bin\Debug\net8.0\P7_SayıTahminKarşılıklı.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P7_SayıTahminKarşılıklı\bin\Debug\net8.0\P7_SayıTahminKarşılıklı.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P7_SayıTahminKarşılıklı\obj\Debug\net8.0\P7_SayıTahminKarşılıklı.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P7_SayıTahminKarşılıklı\obj\Debug\net8.0\P7_SayıTahminKarşılıklı.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P7_SayıTahminKarşılıklı\obj\Debug\net8.0\P7_SayıTahminKarşılıklı.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P7_SayıTahminKarşılıklı\obj\Debug\net8.0\P7_SayıTahminKarşılıklı.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P7_SayıTahminKarşılıklı\obj\Debug\net8.0\P7_SayıTahminKarşılıklı.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P7_SayıTahminKarşılıklı\obj\Debug\net8.0\refint\P7_SayıTahminKarşılıklı.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P7_SayıTahminKarşılıklı\obj\Debug\net8.0\P7_SayıTahminKarşılıklı.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P7_SayıTahminKarşılıklı\obj\Debug\net8.0\P7_SayıTahminKarşılıklı.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P7_SayıTahminKarşılıklı\obj\Debug\net8.0\ref\P7_SayıTahminKarşılıklı.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P16_DiziEnBüyükElemanBulma/1.0.0": {
+        "runtime": {
+          "P16_DiziEnBüyükElemanBulma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P16_DiziEnBüyükElemanBulma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

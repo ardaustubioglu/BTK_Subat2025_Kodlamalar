@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P24_SayıListesiMatİşlemlerLINQ/1.0.0": {
+        "runtime": {
+          "P24_SayıListesiMatİşlemlerLINQ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P24_SayıListesiMatİşlemlerLINQ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

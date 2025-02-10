@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P46_RestoranMenüYönetimiOOP/1.0.0": {
+        "runtime": {
+          "P46_RestoranMenüYönetimiOOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P46_RestoranMenüYönetimiOOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

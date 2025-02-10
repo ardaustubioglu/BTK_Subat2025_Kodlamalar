@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P52_SealedMetotKullanımıOOP\bin\Debug\net8.0\P52_SealedMetotKullanımıOOP.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P52_SealedMetotKullanımıOOP\bin\Debug\net8.0\P52_SealedMetotKullanımıOOP.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P52_SealedMetotKullanımıOOP\bin\Debug\net8.0\P52_SealedMetotKullanımıOOP.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P52_SealedMetotKullanımıOOP\bin\Debug\net8.0\P52_SealedMetotKullanımıOOP.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P52_SealedMetotKullanımıOOP\bin\Debug\net8.0\P52_SealedMetotKullanımıOOP.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P52_SealedMetotKullanımıOOP\obj\Debug\net8.0\P52_SealedMetotKullanımıOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P52_SealedMetotKullanımıOOP\obj\Debug\net8.0\P52_SealedMetotKullanımıOOP.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P52_SealedMetotKullanımıOOP\obj\Debug\net8.0\P52_SealedMetotKullanımıOOP.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P52_SealedMetotKullanımıOOP\obj\Debug\net8.0\P52_SealedMetotKullanımıOOP.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P52_SealedMetotKullanımıOOP\obj\Debug\net8.0\P52_SealedMetotKullanımıOOP.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P52_SealedMetotKullanımıOOP\obj\Debug\net8.0\refint\P52_SealedMetotKullanımıOOP.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P52_SealedMetotKullanımıOOP\obj\Debug\net8.0\P52_SealedMetotKullanımıOOP.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P52_SealedMetotKullanımıOOP\obj\Debug\net8.0\P52_SealedMetotKullanımıOOP.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P52_SealedMetotKullanımıOOP\obj\Debug\net8.0\ref\P52_SealedMetotKullanımıOOP.dll

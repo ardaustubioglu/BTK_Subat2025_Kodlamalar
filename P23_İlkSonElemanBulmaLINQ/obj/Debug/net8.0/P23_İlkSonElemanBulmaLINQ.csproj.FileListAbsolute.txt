@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P23_İlkSonElemanBulmaLINQ\bin\Debug\net8.0\P23_İlkSonElemanBulmaLINQ.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P23_İlkSonElemanBulmaLINQ\bin\Debug\net8.0\P23_İlkSonElemanBulmaLINQ.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P23_İlkSonElemanBulmaLINQ\bin\Debug\net8.0\P23_İlkSonElemanBulmaLINQ.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P23_İlkSonElemanBulmaLINQ\bin\Debug\net8.0\P23_İlkSonElemanBulmaLINQ.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P23_İlkSonElemanBulmaLINQ\bin\Debug\net8.0\P23_İlkSonElemanBulmaLINQ.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P23_İlkSonElemanBulmaLINQ\obj\Debug\net8.0\P23_İlkSonElemanBulmaLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P23_İlkSonElemanBulmaLINQ\obj\Debug\net8.0\P23_İlkSonElemanBulmaLINQ.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P23_İlkSonElemanBulmaLINQ\obj\Debug\net8.0\P23_İlkSonElemanBulmaLINQ.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P23_İlkSonElemanBulmaLINQ\obj\Debug\net8.0\P23_İlkSonElemanBulmaLINQ.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P23_İlkSonElemanBulmaLINQ\obj\Debug\net8.0\P23_İlkSonElemanBulmaLINQ.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P23_İlkSonElemanBulmaLINQ\obj\Debug\net8.0\refint\P23_İlkSonElemanBulmaLINQ.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P23_İlkSonElemanBulmaLINQ\obj\Debug\net8.0\P23_İlkSonElemanBulmaLINQ.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P23_İlkSonElemanBulmaLINQ\obj\Debug\net8.0\P23_İlkSonElemanBulmaLINQ.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P23_İlkSonElemanBulmaLINQ\obj\Debug\net8.0\ref\P23_İlkSonElemanBulmaLINQ.dll

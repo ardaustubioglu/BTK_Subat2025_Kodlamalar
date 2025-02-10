@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P46_RestoranMenüYönetimiOOP\bin\Debug\net8.0\P46_RestoranMenüYönetimiOOP.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P46_RestoranMenüYönetimiOOP\bin\Debug\net8.0\P46_RestoranMenüYönetimiOOP.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P46_RestoranMenüYönetimiOOP\bin\Debug\net8.0\P46_RestoranMenüYönetimiOOP.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P46_RestoranMenüYönetimiOOP\bin\Debug\net8.0\P46_RestoranMenüYönetimiOOP.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P46_RestoranMenüYönetimiOOP\bin\Debug\net8.0\P46_RestoranMenüYönetimiOOP.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P46_RestoranMenüYönetimiOOP\obj\Debug\net8.0\P46_RestoranMenüYönetimiOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P46_RestoranMenüYönetimiOOP\obj\Debug\net8.0\P46_RestoranMenüYönetimiOOP.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P46_RestoranMenüYönetimiOOP\obj\Debug\net8.0\P46_RestoranMenüYönetimiOOP.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P46_RestoranMenüYönetimiOOP\obj\Debug\net8.0\P46_RestoranMenüYönetimiOOP.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P46_RestoranMenüYönetimiOOP\obj\Debug\net8.0\P46_RestoranMenüYönetimiOOP.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P46_RestoranMenüYönetimiOOP\obj\Debug\net8.0\refint\P46_RestoranMenüYönetimiOOP.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P46_RestoranMenüYönetimiOOP\obj\Debug\net8.0\P46_RestoranMenüYönetimiOOP.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P46_RestoranMenüYönetimiOOP\obj\Debug\net8.0\P46_RestoranMenüYönetimiOOP.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P46_RestoranMenüYönetimiOOP\obj\Debug\net8.0\ref\P46_RestoranMenüYönetimiOOP.dll

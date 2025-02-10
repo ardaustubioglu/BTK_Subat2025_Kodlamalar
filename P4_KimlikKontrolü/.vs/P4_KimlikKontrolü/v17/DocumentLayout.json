@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - TRABZON \u00DCN\u0130VERS\u0130TES\u0130 Bilgi \u0130\u015Flem Daire B\\_C# Nesne Y\u00F6nelimli Programlama BTK\\_Haftal\u0131k \u0130\u00E7erik\\Projeler\\P4_KimlikKontrol\u00FC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7AC2D8-E60D-4331-8D0B-C40CB4D46C71}|P4_KimlikKontrol\u00FC.csproj|d:\\onedrive - trabzon \u00FCn\u0130vers\u0130tes\u0130 bilgi \u0130\u015Flem daire b\\_c# nesne y\u00F6nelimli programlama btk\\_haftal\u0131k \u0130\u00E7erik\\projeler\\p4_kimlikkontrol\u00FC\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7AC2D8-E60D-4331-8D0B-C40CB4D46C71}|P4_KimlikKontrol\u00FC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive - TRABZON \u00DCN\u0130VERS\u0130TES\u0130 Bilgi \u0130\u015Flem Daire B\\_C# Nesne Y\u00F6nelimli Programlama BTK\\_Haftal\u0131k \u0130\u00E7erik\\Projeler\\P4_KimlikKontrol\u00FC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OneDrive - TRABZON \u00DCN\u0130VERS\u0130TES\u0130 Bilgi \u0130\u015Flem Daire B\\_C# Nesne Y\u00F6nelimli Programlama BTK\\_Haftal\u0131k \u0130\u00E7erik\\Projeler\\P4_KimlikKontrol\u00FC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:56:16.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

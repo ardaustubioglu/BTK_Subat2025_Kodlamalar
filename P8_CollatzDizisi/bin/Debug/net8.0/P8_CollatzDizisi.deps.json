@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P8_CollatzDizisi/1.0.0": {
+        "runtime": {
+          "P8_CollatzDizisi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P8_CollatzDizisi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

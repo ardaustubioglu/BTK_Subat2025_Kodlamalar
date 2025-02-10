@@ -1,0 +1,14 @@
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P24_SayıListesiMatİşlemlerLINQ\bin\Debug\net8.0\P24_SayıListesiMatİşlemlerLINQ.exe
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P24_SayıListesiMatİşlemlerLINQ\bin\Debug\net8.0\P24_SayıListesiMatİşlemlerLINQ.deps.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P24_SayıListesiMatİşlemlerLINQ\bin\Debug\net8.0\P24_SayıListesiMatİşlemlerLINQ.runtimeconfig.json
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P24_SayıListesiMatİşlemlerLINQ\bin\Debug\net8.0\P24_SayıListesiMatİşlemlerLINQ.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P24_SayıListesiMatİşlemlerLINQ\bin\Debug\net8.0\P24_SayıListesiMatİşlemlerLINQ.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P24_SayıListesiMatİşlemlerLINQ\obj\Debug\net8.0\P24_SayıListesiMatİşlemlerLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P24_SayıListesiMatİşlemlerLINQ\obj\Debug\net8.0\P24_SayıListesiMatİşlemlerLINQ.AssemblyInfoInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P24_SayıListesiMatİşlemlerLINQ\obj\Debug\net8.0\P24_SayıListesiMatİşlemlerLINQ.AssemblyInfo.cs
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P24_SayıListesiMatİşlemlerLINQ\obj\Debug\net8.0\P24_SayıListesiMatİşlemlerLINQ.csproj.CoreCompileInputs.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P24_SayıListesiMatİşlemlerLINQ\obj\Debug\net8.0\P24_SayıListesiMatİşlemlerLINQ.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P24_SayıListesiMatİşlemlerLINQ\obj\Debug\net8.0\refint\P24_SayıListesiMatİşlemlerLINQ.dll
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P24_SayıListesiMatİşlemlerLINQ\obj\Debug\net8.0\P24_SayıListesiMatİşlemlerLINQ.pdb
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P24_SayıListesiMatİşlemlerLINQ\obj\Debug\net8.0\P24_SayıListesiMatİşlemlerLINQ.genruntimeconfig.cache
+D:\OneDrive - TRABZON ÜNİVERSİTESİ Bilgi İşlem Daire B\_C# Nesne Yönelimli Programlama BTK\_Haftalık İçerik\Projeler\P24_SayıListesiMatİşlemlerLINQ\obj\Debug\net8.0\ref\P24_SayıListesiMatİşlemlerLINQ.dll
